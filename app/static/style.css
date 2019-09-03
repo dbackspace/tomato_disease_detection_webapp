@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    
 }
 
 .no-display {
@@ -18,14 +18,14 @@ body {
     font-size: 35px;
     margin-top: 2.1em;
 	color: #f20000;
-	-webkit-text-stroke-color: #f20000;
+	/* -webkit-text-stroke-color: #f20000; */
 }
 
-.description {
+.descrip {
 	font-size: 25px;
     margin-top: 1em;
 	color: #082cc9;
-	-webkit-text-stroke-color: #082cc9;
+	/* -webkit-text-stroke-color: #082cc9; */
 }
 
 .content {
@@ -46,7 +46,7 @@ body {
     padding: 10px;
     font-size: 16px;
 	color: #082cc9;
-	-webkit-text-stroke-color: #082cc9;
+	/* -webkit-text-stroke-color: #082cc9; */
 }
 
 button.choose-file-button {
